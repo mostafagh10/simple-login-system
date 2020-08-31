@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-login-system/static/css/main.b68cc09c.chunk.css",
+    "main.js": "/simple-login-system/static/js/main.1de872b3.chunk.js",
+    "main.js.map": "/simple-login-system/static/js/main.1de872b3.chunk.js.map",
+    "runtime-main.js": "/simple-login-system/static/js/runtime-main.5ccb854c.js",
+    "runtime-main.js.map": "/simple-login-system/static/js/runtime-main.5ccb854c.js.map",
+    "static/css/2.2058ee32.chunk.css": "/simple-login-system/static/css/2.2058ee32.chunk.css",
+    "static/js/2.1bfcd8f0.chunk.js": "/simple-login-system/static/js/2.1bfcd8f0.chunk.js",
+    "static/js/2.1bfcd8f0.chunk.js.map": "/simple-login-system/static/js/2.1bfcd8f0.chunk.js.map",
+    "index.html": "/simple-login-system/index.html",
+    "precache-manifest.396dbccc9b56b800f9509ba26ce6fdb4.js": "/simple-login-system/precache-manifest.396dbccc9b56b800f9509ba26ce6fdb4.js",
+    "service-worker.js": "/simple-login-system/service-worker.js",
+    "static/css/2.2058ee32.chunk.css.map": "/simple-login-system/static/css/2.2058ee32.chunk.css.map",
+    "static/css/main.b68cc09c.chunk.css.map": "/simple-login-system/static/css/main.b68cc09c.chunk.css.map",
+    "static/js/2.1bfcd8f0.chunk.js.LICENSE.txt": "/simple-login-system/static/js/2.1bfcd8f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ccb854c.js",
+    "static/css/2.2058ee32.chunk.css",
+    "static/js/2.1bfcd8f0.chunk.js",
+    "static/css/main.b68cc09c.chunk.css",
+    "static/js/main.1de872b3.chunk.js"
+  ]
+}
